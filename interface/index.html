@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <div>Teachable Machine Image Model</div>
+    <button type="button" onclick="init()">Start</button>
+    <input id="imgselect" type="file" style="display: none;" accept="image/png, image/jpeg" />
+    <div id="webcam-container"></div>
+    <div id="label-container"></div>
+    <img id="weewoo">
+  </body>
+</html>
