@@ -12,6 +12,6 @@ Pull Requests are appreciated!
 
 #### For **__selenium-testing.py__**
 
-> selenium
+- selenium
 
-> webdriver_manager
+- webdriver_manager
