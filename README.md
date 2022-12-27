@@ -11,7 +11,5 @@ Pull Requests are appreciated!
 ## Required libraries
 
 #### For **__selenium-testing.py__**
-
 - selenium
-
 - webdriver_manager
