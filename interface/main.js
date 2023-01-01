@@ -51,7 +51,7 @@ async function predict() {
 
   const image = document.getElementById("weewoo");
   const reader = new FileReader();
-
+  
   reader.addEventListener(
     "load",
     () => {
